@@ -1,5 +1,5 @@
 body{
-    color: red;
+    color: black;
 }
 /* 
 
@@ -14,6 +14,10 @@ body{
 * {
     margin: 0;
     padding: 0;
+    /* key-value pair
+    margin is the key 
+    0 is the value
+    */
 }
 
 .navbar {
@@ -32,3 +36,24 @@ body{
     padding: 15px 5px; /* top and bottom then left and right*/
 
 }
+
+.mainContent {
+    text-align: center;
+
+}
+
+.mainContent h1 {
+    text-align: center;
+
+}
+
+.Education ul {
+    list-style-type: none;
+    color: blue;
+}
+/* 
+on the about page, please add content about yourself....
+
+
+including h1, h2, p and lists.... we will modify them shortly
+*/
